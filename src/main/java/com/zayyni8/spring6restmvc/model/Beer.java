@@ -20,4 +20,5 @@ public class Beer {
     private LocalDateTime createdDate;
     private LocalDateTime updateDate;
 
+
 }
