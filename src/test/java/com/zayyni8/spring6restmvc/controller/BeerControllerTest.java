@@ -57,7 +57,12 @@ class BeerControllerTest {
 
     //Patch test using Beer Object
 
-    
+    @Test
+    void testPatchBeer() {
+
+    }
+
+
     //Delete using Mock MVC test Beer
 
 
