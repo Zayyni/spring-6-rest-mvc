@@ -7,9 +7,12 @@ import java.math.BigDecimal;
 import java.time.LocalDateTime;
 import java.util.UUID;
 
+/*CODED BY ZAYYNI
+ * */
+
 @Builder
 @Data
-public class Beer {
+public class BeerDTO {
     private UUID id;
     private Integer version;
     private String beerName;
