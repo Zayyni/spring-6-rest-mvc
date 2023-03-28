@@ -6,9 +6,9 @@ import java.util.List;
 import java.util.Optional;
 import java.util.UUID;
 
-/*
-CODE BY ZAYYNI
-* */
+/**
+ * CODE BY ZAYYNI
+ */
 public interface BeerService {
 
     List<BeerDTO> listBeers();
